@@ -1,1 +1,2 @@
-My naem is Edmund
+My name is Edmund
+Studying software engineering techniques.
